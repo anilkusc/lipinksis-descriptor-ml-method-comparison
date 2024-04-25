@@ -75,3 +75,16 @@ Classification Report:
     accuracy                           0.71       939
    macro avg       0.76      0.69      0.67       939
 weighted avg       0.76      0.71      0.68       939
+
+# Deep Learning Version 2
+
+Accuracy: 0.9414270500532481
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.90      0.98      0.94       434
+         1.0       0.98      0.91      0.94       505
+
+    accuracy                           0.94       939
+   macro avg       0.94      0.94      0.94       939
+weighted avg       0.94      0.94      0.94       939
